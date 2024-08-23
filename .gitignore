@@ -1,0 +1,4 @@
+build/
+vcpkg_installed
+cpu_profile.prof
+my_program
